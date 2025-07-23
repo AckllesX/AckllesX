@@ -1,5 +1,5 @@
 
-# Hi, it's me, Ackles 
+# Hi, it's me, Svx1337 
 
 <p align="center">
   <a href="#"><img src="https://i.pinimg.com/originals/d7/48/ca/d748caa0ffc9c604a10beedc75d4775f.gif" width="125%" alt="Old Image" style="margin-right: 35px; vertical-align: middle;" /></a>
@@ -10,7 +10,7 @@
 
 ## Connect with Me
 <p align="center">
-  <a href="https://t.me/ackllesX"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"/></a>&nbsp;&nbsp;
+  <a href="https://t.me/svxciaguy"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://discord.com/users/241340069850513409"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 </p>
 
@@ -25,21 +25,21 @@
 
 ## ⚙️ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ackllesx&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=svxciaguy&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats"/>
 </p>
 
 ---
 
 ## 🌐 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ackllesx&layout=compact&title_color=ffffff&icon_color=ffffff&text_color=FFFFFF&bg_color=000000" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svxciaguy&layout=compact&title_color=ffffff&icon_color=ffffff&text_color=FFFFFF&bg_color=000000" alt="Most Used Languages"/>
 </p>
 
 ---
 
 ## 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ackllesx&theme=high-contrast" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=svxciaguy&theme=high-contrast" alt="GitHub Activity Graph"/>
 </p>
 
 ---
@@ -53,7 +53,7 @@
 
 ## About Me
 
-Hello! I'm **Ackles**, a cybersecurity enthusiast with a strong passion for **malware analysis**, and **threat analysis**. 
+Hello! I'm **Svx1337**, a cybersecurity enthusiast with a strong passion for **malware analysis**, and **threat analysis**. 
 
 I'm part of a **cybersecurity team called GhostByte**, where we work together to tackle **cybersecurity challenges** and develop innovative tools to protect systems. We specialize in **ethical hacking**, **penetration testing**, and **vulnerability research**.
 
